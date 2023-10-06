@@ -23,7 +23,6 @@ function App() {
       <h2 className="projects spaceX">CONTACT ME&nbsp;</h2>
       <Contact />
       <Footer />
-
     </div>
   );
 }
