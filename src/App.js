@@ -22,6 +22,7 @@ function App() {
       <Projects />
       <h2 className="projects spaceX">CONTACT ME&nbsp;</h2>
       <Contact />
+      NEERAJ SINGH RAJPUT
       <Footer />
     </div>
   );
